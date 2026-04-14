@@ -1,12 +1,12 @@
-# {nombre del proyecto}
+# {ambientacion dulce valen}
 
 **Descripción:**
-{breve explicación del proyecto}
+{pagina de eventos sociales y coorporativos}
 
 Integrantes:
 
-- {Apellido, Nombre} | [@username](https://github.com/username)
-- {Apellido, Nombre} | [@username](https://github.com/username)
+- {Apellido, Nombre} | [@username](https://github.com/burgosleandro)
+- {Apellido, Nombre} | [@username](https://github.com/)
 - {Apellido, Nombre} | [@username](https://github.com/username)
 - {Apellido, Nombre} | [@username](https://github.com/username)
 
